@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Mohammed\\AndroidStudioProjects\\ContentProviderCustomUser\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "C:\\Users\\Mohammed\\AndroidStudioProjects\\ContentProviderCustomUser\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 62,
+                        "endOffset": 113
+                    }
+                }
+            }
+        ]
+    }
+]
